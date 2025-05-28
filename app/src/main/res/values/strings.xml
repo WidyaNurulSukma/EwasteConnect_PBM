@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ewaste_formatted">e<b>W</b>aste</string>
+    <string name="connect_formatted"><b>C</b>onnect</string>
+    <string name="back_button_desc">Kembali</string>
+    <string name="navigate_button_desc">Navigasi ke tujuan</string>
+    <string name="desc_btn_back">Tombol kembali</string>
+</resources>
