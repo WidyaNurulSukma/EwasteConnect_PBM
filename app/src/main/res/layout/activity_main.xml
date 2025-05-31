@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg_splash"
-    tools:context=".SplashActivity">
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <!-- Ganti sementara untuk uji performa -->
 
     <!-- Logo Recycle -->
     <ImageView
@@ -15,6 +17,7 @@
         android:layout_width="50dp"
         android:layout_height="40dp"
         android:src="@drawable/ic_recycle"
+        android:clickable="false"
         app:layout_constraintBottom_toTopOf="@+id/tvAppName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,11 +34,12 @@
         android:textColor="#FFFFFF"
         android:textSize="40sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:clickable="true"
+        android:focusable="true"
         app:layout_constraintBottom_toTopOf="@+id/tvAppNameSecond"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivLogo" />
-
 
     <TextView
         android:id="@+id/tvAppNameSecond"
@@ -45,6 +49,7 @@
         android:textColor="#FFFFFF"
         android:textSize="40sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:clickable="false"
         app:layout_constraintBottom_toTopOf="@+id/tvDescription"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -62,22 +67,11 @@
         android:text="Selamat datang di eWasteConnect! Aplikasi yang menghubungkan Anda dengan solusi pengelolaan limbah elektronik berkelanjutan. Dengan beberapa sentuhan jari, Anda dapat berkontribusi nyata untuk lingkungan yang lebih bersih dan masa depan yang lebih hijau. Mari mulai perjalanan daur ulang e-waste Anda sekarang!"
         android:textColor="#FFFFFF"
         android:textSize="14sp"
+        android:clickable="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvAppNameSecond"
         app:layout_constraintVertical_bias="0.1" />
-
-    <!-- Background image (dengan alpha untuk opacity rendah) -->
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        android:src="@drawable/bg_ewaste_icons1"
-        android:alpha="0.05"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

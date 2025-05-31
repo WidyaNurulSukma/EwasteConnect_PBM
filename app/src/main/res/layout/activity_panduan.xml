@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- ScrollView untuk konten yang dapat digulir -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_navigation"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Bagian Atas: Header, Ilustrasi, dan Deskripsi -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                app:cardBackgroundColor="@color/primary"
+                app:cardCornerRadius="0dp"
+                app:cardElevation="0dp"
+                app:cardPreventCornerOverlap="false">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/curved_bottom_background">
+
+                    <!-- Header dengan Tombol Kembali -->
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:padding="16dp">
+
+                        <ImageView
+                            android:id="@+id/btn_back"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:layout_alignParentStart="true"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/ic_arrow_back"
+                            app:tint="@android:color/white" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:text="Panduan"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                    <!-- Ilustrasi FAQ -->
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:layout_marginBottom="16dp"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/illustration_faq" />
+
+                    <!-- Deskripsi -->
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:lineSpacingExtra="4dp"
+                        android:text="Sebelum memulai berdonasi barang elektronik, yuk kenali dulu jenis barang elektronik yang belum bisa diterima oleh eWasteConnect."
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp"
+                        android:padding="16dp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- Judul Langkah-langkah -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:text="Langkah-langkah"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <!-- Langkah 1 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <!-- Container untuk Nomor dan Gambar -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <!-- Nomor Langkah dengan Lingkaran -->
+                    <TextView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/circle_background"
+                        android:gravity="center"
+                        android:text="1"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <!-- Garis Pemisah Vertikal -->
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="120dp"
+                        android:layout_marginTop="8dp"
+                        android:background="@color/primary" />
+
+                    <!-- Gambar Ilustrasi Perangkat -->
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginTop="8dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/illustration_device_1" />
+
+                </LinearLayout>
+
+
+                <!-- Teks Deskripsi -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:text="Pastikan semua elektronik yang akan disumbangkan dalam keadaan utuh dan bersih. Barang yang sudah ditentukan oleh eWasteConnect dapat diterima."
+                    android:textSize="14sp"
+                    android:gravity="center_vertical|start"
+                    android:maxLines="4"
+                    android:ellipsize="end" />
+
+            </LinearLayout>
+
+            <!-- Langkah 2 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <!-- Container untuk Nomor dan Gambar -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <!-- Nomor Langkah dengan Lingkaran -->
+                    <TextView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/circle_background"
+                        android:gravity="center"
+                        android:text="2"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <!-- Garis Pemisah Vertikal -->
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="120dp"
+                        android:layout_marginTop="8dp"
+                        android:background="@color/primary" />
+
+                    <!-- Gambar Ilustrasi Perangkat -->
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginTop="8dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/illustration_device_2" />
+
+                </LinearLayout>
+
+                <!-- Teks Deskripsi -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:text="Pisahkan alat elektronik sesuai jenisnya untuk memudahkan proses daur ulang."
+                    android:textSize="14sp"
+                    android:gravity="center_vertical|start"
+                    android:maxLines="4"
+                    android:ellipsize="end" />
+
+            </LinearLayout>
+
+            <!-- Langkah 3 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <!-- Container untuk Nomor dan Gambar -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <!-- Nomor Langkah dengan Lingkaran -->
+                    <TextView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/circle_background"
+                        android:gravity="center"
+                        android:text="3"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <!-- Garis Pemisah Vertikal -->
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="120dp"
+                        android:layout_marginTop="8dp"
+                        android:background="@color/primary" />
+
+                    <!-- Gambar Ilustrasi Perangkat -->
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginTop="8dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/illustration_device_3" />
+
+                </LinearLayout>
+
+                <!-- Teks Deskripsi -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:text="Alat elektronik yang telah diklasifikasi dapat disimpan dalam kotak atau kontainer hingga proses pengambilan oleh eWasteConnect dimulai."
+                    android:textSize="14sp"
+                    android:gravity="center_vertical|start"
+                    android:maxLines="4"
+                    android:ellipsize="end" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Bottom Navigation -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        app:itemIconTint="@color/nav_item_color"
+        app:itemTextColor="@color/nav_item_color"
+        app:menu="@menu/bottom_nav_menu" />
+
+    <!-- Definisi Resource di dalam File (untuk belajar) -->
+    <resources>
+        <!-- Drawable untuk Background Melengkung -->
+        <item type="drawable" name="curved_bottom_background">
+            <shape xmlns:android="http://schemas.android.com/apk/res/android">
+                <solid android:color="@color/primary" />
+                <corners
+                    android:bottomLeftRadius="24dp"
+                    android:bottomRightRadius="24dp" />
+            </shape>
+        </item>
+
+        <!-- Menu Bottom Navigation -->
+        <item type="menu" name="bottom_nav_menu">
+            <menu xmlns:android="http://schemas.android.com/apk/res/android">
+                <item
+                    android:id="@+id/nav_home"
+                    android:icon="@drawable/ic_home"
+                    android:title="Home" />
+                <item
+                    android:id="@+id/nav_donate"
+                    android:icon="@drawable/ic_donate"
+                    android:title="Donasi" />
+                <item
+                    android:id="@+id/nav_help"
+                    android:icon="@drawable/ic_help"
+                    android:title="Bantuan" />
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="Profil" />
+            </menu>
+        </item>
+
+        <!-- Color Selector untuk Navigasi -->
+        <item type="selector" name="nav_item_color">
+            <selector xmlns:android="http://schemas.android.com/apk/res/android">
+                <item android:color="@color/primary" android:state_checked="true" />
+                <item android:color="@color/text_secondary" />
+            </selector>
+        </item>
+
+        <!-- Color Resources -->
+        <item type="color" name="primary">#1E3A8A</item> <!-- Warna teal untuk header -->
+        <item type="color" name="primary_light">#B0C4DE</item> <!-- Latar belakang teal muda -->
+        <item type="color" name="text_dark">#000000</item> <!-- Teks gelap -->
+        <item type="color" name="text_secondary">#666666</item> <!-- Teks sekunder -->
+
+        <!-- Drawable untuk Lingkaran Nomor -->
+        <item type="drawable" name="circle_background">
+            <shape xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+                <solid android:color="@color/primary" />
+            </shape>
+        </item>
+    </resources>
+
+</RelativeLayout>

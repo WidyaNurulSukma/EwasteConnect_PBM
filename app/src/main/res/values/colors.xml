@@ -16,4 +16,19 @@
     <!-- eWasteConnect Colors -->
     <color name="primary">#0C6980</color>
     <color name="blue_background">#DEF1F9</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="nav_item_color">#6200EE</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+    <color name="red_500">#EF4444</color>
+    <color name="orange_400">#FB923C</color>
+    <color name="teal_400">#2DD4BF</color>
+    <color name="teal_500">#14B8A6</color>
+    <color name="teal_600">#0D9488</color>
 </resources>

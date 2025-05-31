@@ -26,29 +26,36 @@
         </activity>
 
         <activity
-            android:name=".OnboardingActivity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-
-        <activity
             android:name=".MainActivity"
             android:exported="false" />
 
-        <!-- Newly added activities -->
         <activity
-            android:name=".LoginActivity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+            android:name=".OnboardingActivity"
+            android:exported="false" />
 
         <activity
             android:name=".RegisterActivity"
             android:exported="false"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
+        <!-- Newly added activities -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+
         <activity
             android:name=".RegistrationSuccessActivity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+            android:exported="false" />
+
+        <activity
+            android:name=".DaftarPerangkatActivity"
+            android:label="Daftar Perangkat"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".DonasiPerangkatActivity"
+            android:label="Donasi Perangkat"
+            android:screenOrientation="portrait" />
 
     </application>
 
