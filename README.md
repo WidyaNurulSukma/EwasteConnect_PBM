@@ -20,13 +20,13 @@
 ## ✨ Fitur Utama
 
 ### 📍 Lokasi Drop-off
-Menampilkan daftar pusat daur ulang e-waste terdekat berdasarkan lokasi pengguna dan Integrasi dengan maps untuk navigasi yang mudah
+- Menampilkan daftar pusat daur ulang e-waste terdekat berdasarkan lokasi pengguna dan Integrasi dengan maps untuk navigasi yang mudah
 
 ### 💝 Donasi Perangkat Elektronik/Sedekah Elektronik
-Pengguna dapat mendonasikan perangkat elektronik yang masih bisa digunakan kepada individu, sekolah, atau organisasi yang membutuhkan.
+- Pengguna dapat mendonasikan perangkat elektronik yang masih bisa digunakan kepada individu, sekolah, atau organisasi yang membutuhkan.
 
 ### 🏫 Sekolah Bebas Limbah Elektronik
-Mode Sekolah & Kampus memungkinkan institusi pendidikan memiliki akun khusus guna mengelola program pengelolaan e-waste mereka. Sekolah dan kampus dapat melacak jumlah limbah elektronik yang dikumpulkan, menyelenggarakan kampanye edukasi, serta berpartisipasi dalam tantangan keberlanjutan
+- Mode Sekolah & Kampus memungkinkan institusi pendidikan memiliki akun khusus guna mengelola program pengelolaan e-waste mereka. Sekolah dan kampus dapat melacak jumlah limbah elektronik yang dikumpulkan, menyelenggarakan kampanye edukasi, serta berpartisipasi dalam tantangan keberlanjutan
 
 ## 🔧 Operasi CRUD
 
