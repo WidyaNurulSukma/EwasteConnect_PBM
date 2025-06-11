@@ -1,10 +1,11 @@
 # eWasteConnect 🔄♻️
 
-<p float="left">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/facb261e-6bc5-483e-9bda-d735d74c3b09" alt="Gambar 1" width="200"/>
   &nbsp;
   <img src="https://github.com/user-attachments/assets/3d799f17-c319-4417-b399-1014fdd1dd64" alt="Gambar 2" width="200"/>
-</p>
+</div>
+
 
 ## 📱 Deskripsi
 
