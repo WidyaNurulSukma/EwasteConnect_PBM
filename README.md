@@ -61,6 +61,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 ## 📞 Kontak
 
 - **Tim Pengembang**: Kelompok 20
+  - Widya Nurul Sukma
+  - Pryta Rosela
 - **Email**: widyanurul@mhs.usk.ac.id
 
 ## 🙏 Acknowledgments
@@ -70,13 +72,13 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/af26ee41-c540-47c7-8dd0-85cca358f274" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/de0450ee-b3a9-4155-8336-a85be50d08c9" alt="Screenshot 1" width="200"/>
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/f112a28a-85d7-44a5-89ee-481ba98ea100" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9dc20da5-b87c-4a8e-befc-145d876d9311" alt="Screenshot 2" width="200"/>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/e9928573-a7fd-4ebd-8a95-b9c546e7d51a" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1bb36b0e-dea6-4ba9-8488-82b776b2f212" alt="Screenshot 3" width="200"/>
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/6e5a1a1c-ce37-4a7c-83ff-04b4f1b27038" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9772fe09-e3dd-4c81-92f5-7ed227cc3681" alt="Screenshot 4" width="200"/>
 </div>
 
 
