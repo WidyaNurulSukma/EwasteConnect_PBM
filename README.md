@@ -1,11 +1,10 @@
 # eWasteConnect 🔄♻️
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/b053cc0b-d8fb-4fa7-b9c5-64fe300a2fa5" alt="Gambar 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/facb261e-6bc5-483e-9bda-d735d74c3b09" alt="Gambar 1" width="200"/>
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/8654e875-a28f-43b2-a910-4de40eb9b3f9" alt="Gambar 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3d799f17-c319-4417-b399-1014fdd1dd64" alt="Gambar 2" width="200"/>
 </p>
-
 
 ## 📱 Deskripsi
 
@@ -62,21 +61,23 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 ## 📞 Kontak
 
 - **Tim Pengembang**: Kelompok 20
-- **Email**: contact@ewasteconnect.com
-- **Website**: [https://ewasteconnect.com](https://ewasteconnect.com)
+- **Email**: widyanurul@mhs.usk.ac.id
 
 ## 🙏 Acknowledgments
 
 - Terinspirasi oleh model bisnis Kepul.id
 - Dikembangkan untuk mendukung SDG 8 dan SDG 12
-- Terima kasih kepada komunitas open source yang mendukung pengembangan aplikasi ini
-
 
 ## 📸 Screenshots
-![WhatsApp Image 2025-06-11 at 22 07 11_641d5de1](https://github.com/user-attachments/assets/a4e427b3-a4a3-4c68-97dc-baf647767085)
-![WhatsApp Image 2025-06-11 at 22 07 12_a36c3215](https://github.com/user-attachments/assets/7e117c2c-6d63-4404-b61d-d5c1d4b6810d)
-![WhatsApp Image 2025-06-11 at 22 09 01_41495e12](https://github.com/user-attachments/assets/3455792d-9382-4b3e-9c67-4011691900e0)
-![Uploading WhatsApp Image 2025-06-11 at 22.08.14_c56e410b.jpg…]()
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/af26ee41-c540-47c7-8dd0-85cca358f274" alt="Screenshot 1" width="200"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/f112a28a-85d7-44a5-89ee-481ba98ea100" alt="Screenshot 2" width="200"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/e9928573-a7fd-4ebd-8a95-b9c546e7d51a" alt="Screenshot 3" width="200"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/6e5a1a1c-ce37-4a7c-83ff-04b4f1b27038" alt="Screenshot 4" width="200"/>
+</div>
+
 
 **Bersama-sama kita wujudkan lingkungan yang lebih bersih dan berkelanjutan! 🌱**
