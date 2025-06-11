@@ -72,7 +72,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1436cc40-6a4a-4853-8b26-6c4989c2a588" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e1685da5-2190-4839-9e18-534a6eb55ae3" alt="Screenshot 1" width="200"/>
   &nbsp;
   <img src="https://github.com/user-attachments/assets/890ef201-bc67-4586-9faf-13f55d4f0467" alt="Screenshot 2" width="200"/>
   <br><br>
