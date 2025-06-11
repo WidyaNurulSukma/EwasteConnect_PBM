@@ -20,8 +20,7 @@
 ## ✨ Fitur Utama
 
 ### 📍 Lokasi Drop-off
-- Menampilkan daftar pusat daur ulang e-waste terdekat berdasarkan
-lokasi pengguna dan Integrasi dengan maps untuk navigasi yang mudah
+Menampilkan daftar pusat daur ulang e-waste terdekat berdasarkan lokasi pengguna dan Integrasi dengan maps untuk navigasi yang mudah
 
 ### 💝 Donasi Perangkat Elektronik/Sedekah Elektronik
 Pengguna dapat mendonasikan perangkat elektronik yang masih bisa digunakan kepada individu, sekolah, atau organisasi yang membutuhkan.
