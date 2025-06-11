@@ -1,6 +1,11 @@
 # eWasteConnect 🔄♻️
 
-<img src="https://github.com/user-attachments/assets/b053cc0b-d8fb-4fa7-b9c5-64fe300a2fa5" alt="WhatsApp Image 2025-06-11 at 22 05 28" width="300"/>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/b053cc0b-d8fb-4fa7-b9c5-64fe300a2fa5" alt="Gambar 1" width="200"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/8654e875-a28f-43b2-a910-4de40eb9b3f9" alt="Gambar 2" width="200"/>
+</p>
+
 
 ## 📱 Deskripsi
 
