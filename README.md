@@ -1,7 +1,6 @@
 # eWasteConnect 🔄♻️
 
-![WhatsApp Image 2025-06-11 at 22 05 28_3c53af84](https://github.com/user-attachments/assets/b053cc0b-d8fb-4fa7-b9c5-64fe300a2fa5)
-![WhatsApp Image 2025-06-11 at 22 05 27_23b00ddd](https://github.com/user-attachments/assets/a179b198-5cef-4546-aa09-8fcb48c3f83c)
+<img src="https://github.com/user-attachments/assets/b053cc0b-d8fb-4fa7-b9c5-64fe300a2fa5" alt="WhatsApp Image 2025-06-11 at 22 05 28" width="300"/>
 
 ## 📱 Deskripsi
 
@@ -69,12 +68,10 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 
 
 ## 📸 Screenshots
-<div align="center">
 ![WhatsApp Image 2025-06-11 at 22 07 11_641d5de1](https://github.com/user-attachments/assets/a4e427b3-a4a3-4c68-97dc-baf647767085)
 ![WhatsApp Image 2025-06-11 at 22 07 12_a36c3215](https://github.com/user-attachments/assets/7e117c2c-6d63-4404-b61d-d5c1d4b6810d)
 ![WhatsApp Image 2025-06-11 at 22 09 01_41495e12](https://github.com/user-attachments/assets/3455792d-9382-4b3e-9c67-4011691900e0)
 ![Uploading WhatsApp Image 2025-06-11 at 22.08.14_c56e410b.jpg…]()
-</div>
 ---
 
 **Bersama-sama kita wujudkan lingkungan yang lebih bersih dan berkelanjutan! 🌱**
