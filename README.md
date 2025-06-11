@@ -81,5 +81,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
   <img src="https://github.com/user-attachments/assets/9772fe09-e3dd-4c81-92f5-7ed227cc3681" alt="Screenshot 4" width="200"/>
 </div>
 
+Link Figma: https://www.figma.com/design/K8TZ7oq7id5Ucn5z3DWtC2/PBM_eWasteConnect?node-id=4-3480&t=uYH83yCo1otra27r-1
+
 
 **Bersama-sama kita wujudkan lingkungan yang lebih bersih dan berkelanjutan! 🌱**
